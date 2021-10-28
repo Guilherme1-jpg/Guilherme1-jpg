@@ -22,6 +22,8 @@
 </div>
   <br/>
     <img align="center" alt="gui-figma" height="30" width="40" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" />
+  
+  
   <a href = "mailto:henriqueoliveiragui18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-henrique-6b3389136/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
