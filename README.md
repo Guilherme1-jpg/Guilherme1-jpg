@@ -5,8 +5,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme1-jpg&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
-  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/uB86ZyWQsnFSGYe2sA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/uB86ZyWQsnFSGYe2sA">via GIPHY</a></p>
-<div style="display: inline_block"><br>
+
   
   <h5>Tecnologias usadas diariamente</h5>
   
