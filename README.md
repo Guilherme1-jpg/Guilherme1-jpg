@@ -5,7 +5,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme1-jpg&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
-
+ <img align="center" alt="gui-figma" height="30" width="40" src="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw" />
   
   <h5>Tecnologias usadas diariamente</h5>
   
